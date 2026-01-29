@@ -1,0 +1,12 @@
+DEV TEST FILE
+
+Repo: moodle-activity-test-files
+Purpose:
+- Testing Activity "Details" field
+- GitHub blob vs raw URL
+- Content rendering and fetch
+
+Special chars:
+< > & " ' %
+
+End of file.

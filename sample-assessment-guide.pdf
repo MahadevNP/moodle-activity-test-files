@@ -1,0 +1,35 @@
+This assessment evaluates your ability to:
+
+Launch EC2 instance
+
+Configure Security Groups
+
+Connect using SSH
+
+Install Apache
+
+Deploy static website
+
+Tasks
+
+Launch a t2.micro EC2 instance
+
+Open ports 22 and 80
+
+Install Apache using:
+sudo yum install httpd -y
+Start Apache service
+
+Deploy sample index.html
+
+Verify public IP access
+
+Evaluation Criteria
+
+EC2 created successfully (20 Marks)
+
+Security group configured (20 Marks)
+
+Apache installed (20 Marks)
+
+Website accessible (40 Marks)
